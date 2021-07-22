@@ -2,7 +2,16 @@
     
     width: 150px;
 }
-.navbar-nav {
-    position: relative;
+#navegacion .container-fluid {
+   background-color:#f1f8fa ;
+   
 
+}
+
+.sect {
+    background-color: orchid;
+}
+.presentacion {
+    position: relative;
+    justify-content: center;
 }
